@@ -288,4 +288,3 @@ for i in range(len(a)):
     for j in range(len(a[0])):
         for k in range(len(b)):
             c[i][j]+=a[i][k]*b[k][j]
-print(c)
